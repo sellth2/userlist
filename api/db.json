@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "userName": "admin",
+      "name": "Ali",
+      "lastName": "Uzun",
+      "eMail": "ali.uzun@gmail.com",
+      "password": "0000",
+      "isAdmin": true,
+      "id": "user0"
+    },
+    {
+      "userName": "user11",
+      "name": "Mehmet",
+      "lastName": "Savaş",
+      "eMail": "mehmet.savas@gmail.com",
+      "id": "uniq1",
+      "password": "1111",
+      "isAdmin": false
+    },
+    {
+      "userName": "user2",
+      "name": "Betül",
+      "lastName": "Ağaçlı",
+      "eMail": "betul.agacli@gmail.com",
+      "id": "uniq2",
+      "password": "1111",
+      "isAdmin": false
+    },
+    {
+      "userName": "user6",
+      "name": "Merve",
+      "lastName": "Koçak",
+      "eMail": "merve.kocak@gmail.com",
+      "password": "1111",
+      "isAdmin": false,
+      "id": "iXAVAJCLuSQ3wL9DZAROy"
+    },
+    {
+      "userName": "user5",
+      "name": "Mustafa",
+      "lastName": "Korkmaz",
+      "eMail": "m.korkmaz@gmail.com",
+      "password": "1111",
+      "isAdmin": false,
+      "id": "4luA1RA7FRzCSqx7SF_ym"
+    },
+    {
+      "userName": "user10",
+      "name": "Selime",
+      "lastName": "Koca",
+      "eMail": "s.koca@gmail.com",
+      "password": "1111",
+      "isAdmin": true,
+      "id": "vc2GN0KpYSnmm1dS2-rDg"
+    },
+    {
+      "userName": "user9",
+      "name": "İsmail",
+      "lastName": "Kayak",
+      "eMail": "i.kayak@gmail.com",
+      "password": "1111",
+      "isAdmin": true,
+      "id": "AgBLSBfMshpn81zS7yXX1"
+    },
+    {
+      "userName": "admintest",
+      "name": "admin",
+      "lastName": "test",
+      "eMail": "a@gmail.com",
+      "password": "0000",
+      "isAdmin": false,
+      "id": "ZqNTbu9ZiwT3EeSMspF29"
+    },
+    {
+      "userName": "a",
+      "name": "a",
+      "lastName": "a",
+      "eMail": "a@a.com",
+      "password": "a",
+      "isAdmin": false,
+      "id": "gjzO2XwI2Zqa_P2z1GMpQ"
+    }
+  ]
+}

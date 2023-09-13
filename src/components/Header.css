@@ -1,0 +1,23 @@
+.header {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  position: fixed;
+  margin-top: 10px;
+  margin-right: 35px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 10;
+ 
+}
+.log-out:hover{
+  color: black;
+}
+.pi-sign-out{
+  margin-right: 3px;
+}
+.tr{
+  margin-right: 15px;
+}
